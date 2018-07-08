@@ -7,4 +7,6 @@
 
 ## from 2018-05-27, study of machine-learning with python.
 
-## thanks to , https://github.com/JWarmenhoven/Coursera-Machine-Learning
+## thanks to
+- https://github.com/JWarmenhoven/Coursera-Machine-Learning
+- https://github.com/kaleko/CourseraML
