@@ -10,3 +10,4 @@
 ## thanks to
 - https://github.com/JWarmenhoven/Coursera-Machine-Learning
 - https://github.com/kaleko/CourseraML
+- https://github.com/chinmaydas96/Coursera-Machine-Learning-Python (For ex6)
